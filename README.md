@@ -31,3 +31,4 @@ It's that no one inside your organization will feel safe enough to say so.
 
 Let's build AI governance people can actually trust. 🤝
 Let's build AI governance people can actually trust. 🤝
+<img width="1024" height="1536" alt="AI WHISTLE" src="https://github.com/user-attachments/assets/9ee6d0a7-65f8-469e-99ee-283c06be7d11" />
